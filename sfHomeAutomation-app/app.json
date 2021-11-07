@@ -1,0 +1,12 @@
+{
+  "name": "sfHomeAutomation-app",
+  "displayName": "sfHomeAutomation-app",
+  "expo": {
+    "name": "sfHomeAutomation-app",
+    "slug": "sfHomeAutomation-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+}
+}
